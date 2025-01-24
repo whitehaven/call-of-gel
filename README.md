@@ -21,12 +21,19 @@ It is important to note the primary goal is to create realistic models to genera
 
 ### Future Directions
 
-- [ ] investigate additives for echogenicity: sandblasting media (walnut shells, glass beads)
-- [ ] consider agarose as gellant
-- [ ] consider platicized PVC as alternative due to lack of odor and refrigeration requirement
-- [ ] consider geometry of cast void which could be used as simulated vessel; otherwise obtain suitable vessel lumen material
+Requirements for Usable Models:
 
-## Trial 1
+- [ ] design multi-vessel gel mold
+
+Investigational:
+
+- [ ] consider alternative additives for echogenicity: sandblasting media (walnut shells, glass beads)
+- [ ] consider agarose as gellant
+- [ ] consider platicized PVC as alternative due to lack of odor and refrigeration requirement (complicated by creation requirement for vacuum chamber and lab-grade heating element at least)
+- [ ] consider geometry of cast void which could be used as simulated vessel; otherwise obtain suitable vessel lumen material
+- [ ] consider lumen material
+
+## Trial 1 - **2025-01-16**
 
 Mixture DOE with central augmentation. Assess `texture`, `echogenicity`, and `vessel_veracity`, all of which are required for an ultrasound model or "phantom." `Usability` characteristic was added post-hoc due to trouble with formation of tough cap in some cases that severely limited the utility of the sample without harming the gel's echogenicity in other areas.
 
@@ -98,4 +105,47 @@ Mixture DOE with central augmentation. Assess `texture`, `echogenicity`, and `ve
 ### Future Directions
 
 - Glycerin should be no higher than 50%
+- Glycerin possibly gives some self-healing quality
 - 8% gelatin is almost perfectly durable, and 20% was challenging to use (low usability) - even though global solution shows 8%, suspect 10 or 12% may be optimal
+
+## Trial 2 - **2025-01-21**
+
+Proof of concept of psyllium husk (Metamucil) as echogenizer. Only 1 sample.
+
+| Components |   |  Amount  |
+|------------|---|----------|
+| Water      | = |   91cc   |
+| Gelatin    | = |    8g    |
+| Metamucil  | = |    6g    |
+
+
+### Protocol
+
+1. Base mixtures combined in 8oz party cup.
+1. Gelatin mixed in to base mixture cold and slowly. Total mass for each was 105g.
+1. Gelatin heated to 120-140F in double-boiler
+1. Vessel mold (5cm section platicized PVC tubing) placed directly into gel.
+1. When temperature achieved, cooled immediately to 40F for 8h.
+1. Cast void lumens were filled with water by needle
+1. Phillips Xtend unit was used to assess echogenicity
+
+#### Deviations
+
+1. I intended to make 100cc total gel, however due to low scale precision, too much water was added. The net mass fraction of gelatin was under 8% which is generally regarded the lowest possible concentration.
+
+### Results
+
+- Psyllium husk massively improved echogenicity.
+- Immersing the PVC tubing section feasible rather than more complex wire mold hanger. The tubing must exit the gel when solidified though, however. It naturally floated 1mm or so above the surface so this was not a problem. It was removed with hemostat with rotational traction.
+
+### Analysis
+
+- Psyllium is effective, but it is not clear how this relates to needle tract formation.
+- Needle tract formation problematic
+  - possibly related to low glycerin concentration leading to excess deformation.
+  - possible related to psyllium effect (hopefully not)
+- Query anti-tract effect of glycerin which may facilitate some natural self-healing.
+
+### Future Directions
+
+- Larger trial needed to incorporate psyllium ranges and the useful ranges of glycerin (<=50%) (possible self-healing property from initial trial)
