@@ -4,13 +4,13 @@ Trials to create ultrasound-compatible models for training purposes.
 
 ## Project Aims
 
-It is important to note the primary goal is to create realistic models to generate high-fidelity practice rounds with ultrasound-linked motor skills rather than teach specifics of procedures which are relatively simple in comparison.
+It is important to note the primary goal is to create realistic models to generate high-fidelity practice repetitions linking Seldinger technique motor skills to live ultrasound navigation. This complex skill is the most challenging component of Internal Medicine procedures, especially when practiced at different scales and depths with different tools (arterial vs IJ lines). The specifics of individual procedures are relatively simple in comparison, e.g., all-in-one radial arterial line "darts" vs needle-and-wire kits.
 
 - Create realistic ultrasound training materials approximating human tissue and vessels
   - target procedures are CVC and arterial line placement
   - this could be expanded to paracentesis, thoracentesis, and possibly lumbar puncture
 - Acceptable candidate gel formulation would be:
-  - minimally toxic in creation
+  - nontoxic to create and require minimal materials beside  those found in medical contexts
   - nontoxic to handle
   - provide realistic ultrasonographic return
   - facilitate durable fluid-fillable lumens
@@ -23,12 +23,12 @@ It is important to note the primary goal is to create realistic models to genera
 
 Requirements for Usable Models:
 
-- [ ] design multi-vessel gel mold
+- [ ] multi-vessel gel mold
 
 Investigational:
 
 - [ ] consider alternative additives for echogenicity: sandblasting media (walnut shells, glass beads)
-- [ ] consider agarose as gellant
+- [ ] consider agarose as gellant (admittedly no clear advantage other than smell)
 - [ ] consider platicized PVC as alternative due to lack of odor and refrigeration requirement (complicated by creation requirement for vacuum chamber and lab-grade heating element at least)
 - [ ] consider geometry of cast void which could be used as simulated vessel; otherwise obtain suitable vessel lumen material
 - [ ] consider lumen material
