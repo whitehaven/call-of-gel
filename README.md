@@ -102,6 +102,18 @@ Mixture DOE with central augmentation. Assess `texture`, `echogenicity`, and `ve
 
 ![Response Optimization Plot](<media/Trial 1 Response Optimization Plot.png>)
 
+*Addendum 2025-02-08:* More sophisticated analysis with JMP post-hoc with echogenicity electively removed due to low variance suggests the ideal mixture is as follows:
+
+[JMP analysis report, captured at optimal solution](<media/trial 1-rereanalysis - Fit Least Squares.htm>).
+
+Per JMP, global solution is instead:
+
+| Components |   |          |
+|------------|---|----------|
+| Water      | = | 0.92 |
+| Gelatin    | = | 0.08     |
+| Glycerin   | = | 0.0 |
+
 ### Future Directions
 
 - Glycerin should be no higher than 50%
