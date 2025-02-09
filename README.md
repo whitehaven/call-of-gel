@@ -149,3 +149,30 @@ Proof of concept of psyllium husk (Metamucil) as echogenizer. Only 1 sample.
 ### Future Directions
 
 - Larger trial needed to incorporate psyllium ranges and the useful ranges of glycerin (<=50%) (possible self-healing property from initial trial)
+
+## Trial 3 - **2025-02-08**
+
+This will be 20-run larger mixture optimization experiment with full Scheffe cubic targets if possible, but prioritizing 1st order terms - *a priori* I don't suspect massive interactions.
+
+Broadened targets to base echogenicity, modulus, needle friction, and remnant needle tracks. All but remnant needle tracks are targeted at optimal, 0, lying between -3 and +3. Remnant needle tracks are to be minimized from 0 to +3.
+
+The 0/+1/+2/+3 system is a widely-used ordinal severity measure in medicine. It can be taken thus in most contexts:
+
+| ordinal scale | qualitative impression | proportion of the worst known case of this finding
+| --- | --- | --- |
+| 0 | absent | 0-25%* |
+|+1 | mild | 26-50%*|
+|+2 | moderate | 51-75%*|
+|+3 | severe | 76-100%* |
+
+I have chosen to use this scale due to familiarity. The +4/extreme level will not be used.
+
+Switched to JMP - better DOE than Minitab - more sophisticated planning and analysis functions. See comparison: [Minitab file](<trial 3 plan.mpx>) vs [JMP 17 file](<trial 3 plan.jmp>).
+
+Tabulated form [here](<trial 3 plan.xlsx>).
+
+### Post-experiment tasks
+
+Will attempt to "heal" tracks if present in most or all aliquots. Reportedly this can be done with application of heat - low temp on heat gun or hair dryer.
+
+My own ideas are also to try brief MAP torch application if heat gun struggles to penetrate, or to heat needle with heat gun and briefly reinsert along track, or finally to inject tract with some degree of heated water (perhaps microwaved).
