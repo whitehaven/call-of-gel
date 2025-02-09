@@ -102,6 +102,18 @@ Mixture DOE with central augmentation. Assess `texture`, `echogenicity`, and `ve
 
 ![Response Optimization Plot](<media/Trial 1 Response Optimization Plot.png>)
 
+*Addendum 2025-02-08:* More sophisticated analysis with JMP post-hoc with echogenicity electively removed due to low variance suggests the ideal mixture is as follows:
+
+[JMP analysis report, captured at optimal solution](<media/trial 1-rereanalysis - Fit Least Squares.htm>).
+
+Per JMP, global solution is instead:
+
+| Components |   |          |
+|------------|---|----------|
+| Water      | = | 0.92 |
+| Gelatin    | = | 0.08     |
+| Glycerin   | = | 0.0 |
+
 ### Future Directions
 
 - Glycerin should be no higher than 50%
@@ -117,7 +129,6 @@ Proof of concept of psyllium husk (Metamucil) as echogenizer. Only 1 sample.
 | Water      | = |   91cc   |
 | Gelatin    | = |    8g    |
 | Metamucil  | = |    6g    |
-
 
 ### Protocol
 
@@ -158,7 +169,7 @@ Broadened targets to base echogenicity, modulus, needle friction, and remnant ne
 
 The 0/+1/+2/+3 system is a widely-used ordinal severity measure in medicine. It can be taken thus in most contexts:
 
-| ordinal scale | qualitative impression | proportion of the worst known case of this finding
+| ordinal scale | qualitative impression | proportion of the worst known case of this finding |
 | --- | --- | --- |
 | 0 | absent | 0-25%* |
 |+1 | mild | 26-50%*|
