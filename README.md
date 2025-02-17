@@ -187,3 +187,29 @@ Tabulated form [here](<trial 3 plan.xlsx>).
 Will attempt to "heal" tracks if present in most or all aliquots. Reportedly this can be done with application of heat - low temp on heat gun or hair dryer.
 
 My own ideas are also to try brief MAP torch application if heat gun struggles to penetrate, or to heat needle with heat gun and briefly reinsert along track, or finally to inject tract with some degree of heated water (perhaps microwaved).
+
+## Trial 4 - **2025-02-17**
+
+I became curious about the relative benefits of agar compared to gelatin as described in **Earle, et al.** Most prominently, the risk of mold/rot is much decreased. Earle, et al. describe a test over 2 weeks unrefrigerated with only shrinkage.
+
+I did a simple test of their recommended composition of 5% agar with flour and psyllium as echogenizers, and I was suitably impressed.
+
+Notably I tried to double-boil plastic cups with the mixtures chosen, however I am not sure I reached boiling in all three samples, as I reached plastic deformation of the cups before I was able to confirm temperature. All 3 were 100cc aliquots.
+
+| mixture | echogenicity | modulus | needle friction | needle tract visibilty |
+| --- | --- | --- | --- | --- |
+| 5% agar | 0 (poor) | 0 (near-perfect) | 2- (moderately too easy) | 0 (no detectable tracts) |
+| 5% agar + 2.5% bleached flour | 2+ (good) | 1- (somewhat too soft) | 2- (moderately too easy) | 0 |
+| 5% agar + 2.5% psyllium husk | 1+ (fair) | 2- (barely usable) | 3- (much too easy) | 0 |
+
+**Earle, et al.** also suggest lining the top of the phantom with a single layer of disposable glove. This can easily be created by removing the fingers and splitting the glove along the hypothenar eminence. This would add to the realism of penetrating the skin followed by soft tissue. The original paper recommends adding this to the top before final cooling, but with some traction I made it work after the fact.
+
+### Conclusion
+
+I am reorienting my efforts to agar - it does not require refrigeration, achieves a highly tissue-like consistency, and can reportedly be repaired easily in microwave. As it is carbohydrate-based, it is not as sensitive to heat as gelatin.
+
+---
+
+## Bibliography
+
+> Earle M, Portu GD, DeVos E. Agar ultrasound phantoms for low-cost training without refrigeration. Afr J Emerg Med. 2016;6(1):18-23. doi:10.1016/j.afjem.2015.09.003
