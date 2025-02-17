@@ -202,7 +202,18 @@ Notably I tried to double-boil plastic cups with the mixtures chosen, however I 
 | 5% agar + 2.5% bleached flour | 2+ (good) | 1- (somewhat too soft) | 2- (moderately too easy) | 0 |
 | 5% agar + 2.5% psyllium husk | 1+ (fair) | 2- (barely usable) | 3- (much too easy) | 0 |
 
-**Earle, et al.** also suggest lining the top of the phantom with a single layer of disposable glove. This can easily be created by removing the fingers and splitting the glove along the hypothenar eminence. This would add to the realism of penetrating the skin followed by soft tissue. The original paper recommends adding this to the top before final cooling, but with some traction I made it work after the fact.
+**Earle, et al.** also suggest lining the top of the phantom with a single layer of disposable glove. This can easily be created by removing the fingers and splitting the glove along the hypothenar eminence. This would add to the realism of penetrating the skin followed by soft tissue. The original paper recommends adding this to the top before final cooling, but with some traction I made it work after the fact. There was no appreciable change in image characteristics.
+
+### Representative Images
+
+>![5% agar](media/trial_4_agar_only.jpg)
+> 5% agar
+
+>![5% agar + 2.5% bleached flour](media/trial_4_agar_flour.jpg)
+>5% agar + 2.5% bleached flour
+
+>![5% agar + 2.5% psyllium husk](media/trial_4_agar_psyllium.jpg)
+>5% agar + 2.5% psyllium husk
 
 ### Conclusion
 
