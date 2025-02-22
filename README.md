@@ -215,6 +215,10 @@ Notably I tried to double-boil plastic cups with the mixtures chosen, however I 
 >![5% agar + 2.5% psyllium husk](media/trial_4_agar_psyllium.jpg)
 >5% agar + 2.5% psyllium husk
 
+They did not do well over 5 day longevity test.
+
+![trial 4 samples at 5 days](<media/trial 4 samples at 5 days.jpg>)
+
 ### Conclusion
 
 I am reorienting my efforts to agar - it does not require refrigeration, achieves a highly tissue-like consistency, and can reportedly be repaired easily in microwave. As it is carbohydrate-based, it is not as sensitive to heat as gelatin.
