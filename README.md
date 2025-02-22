@@ -223,6 +223,39 @@ They did not do well over 5 day longevity test.
 
 I am reorienting my efforts to agar - it does not require refrigeration, achieves a highly tissue-like consistency, and can reportedly be repaired easily in microwave. As it is carbohydrate-based, it is not as sensitive to heat as gelatin.
 
+## Trial 5 - **2025-02-21**
+
+Tried **Earle, et al.** suggestion of 5% agar and 1 tsp flour.
+
+Flour difficult to mix fully, clumped at bottom. Echogenicity was still quite good, though compacted toward the mold bottom. This was corrected easily with the half-image gain adjustment.
+
+Silicone tubing was trialed as candidate material - tubing much too resilient to needle puncture. Also tried removing the tubing and replacing the void with water, which eliminated entry force to the lumen. Have yet to trial natural rubber latex tubing which I expect will be more readily pierced.
+
+The tubing was passed into the containter mold without piercing the walls, taking on a U-shape. The tubing couldn't be pressed down, as it would end up too shallow to the bottom of the casting, leading to leaking. The  usable tracts are quite short. The authors of **Earle, et al.** suggest a two-layer pouring process, but this creates a strong layer artifact. It would, however, enable greater force to be used to bend the tubing. Ultimately I believe passing the tubing directly through the mold wall with reversible water tight seals (PU hot glue) is the best option to maximize usable vessel area, but could consider multi-layer. There may also be a role for spacers and positioning aids inside the mold body, but again this sacrifices usable area.
+
+Data added to `trial 4 with initial data.jmp` for analysis. Still not enough variance for any patterns to emerge when analyzed.
+
+### Representative Images
+
+>![alt text](<media/trial 5/unadjusted vessels axial and inline.jpg>)
+>![alt text](<media/trial 5/shallow gain adjusted.jpg>)
+>pre- and post-gain adjusted images 
+
+>![alt text](<media/trial 5/axial needle view.jpg>)
+>![alt text](<media/trial 5/inline needle view.jpg>)
+>needle views
+
+>![alt text](<media/trial 5/axial lumen without tubing.jpg>)
+>![alt text](<media/trial 5/inline lumen without tubing.jpg>)
+>lumen without tubing (the more shallow void)
+
+>![alt text](<media/trial 5/positioning while squeezing.jpg>)
+>![alt text](<media/trial 5/color doppler while squeezing.jpg>)
+>![alt text](<media/trial 5/PW with squeezing.jpg>)
+>power and color doppler while rhythmically squeezing sealed tubing section
+
+>![alt text](<media/trial 5/residual needle tract.jpg>)
+>residual needle tract
 ---
 
 ## Bibliography
