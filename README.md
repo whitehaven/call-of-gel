@@ -225,7 +225,7 @@ I am reorienting my efforts to agar - it does not require refrigeration, achieve
 
 ## Trial 5 - **2025-02-21**
 
-Tried **Earle, et al.** suggestion of 5% agar and 1 tsp flour.
+Tried **Earle, et al.** suggestion of 5% agar and 1 tsp flour in 750cc (0.65%).
 
 Flour difficult to mix fully, clumped at bottom. Echogenicity was still quite good, though compacted toward the mold bottom. This was corrected easily with the half-image gain adjustment.
 
