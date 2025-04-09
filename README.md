@@ -258,6 +258,24 @@ Data added to `trial 4 with initial data.jmp` for analysis. Still not enough var
 >residual needle tract
 ---
 
+## Trial 6 - **2025-03-28** *(informal)*
+
+Made 2 gels of 7.5% agar, 0.5% all-purpose flour, 1.5 and 1.25L samples. A few mL 70% isoproypl alcohol was used as a degassing agent as well.
+
+Ran 12mm OD/8mm ID  natural latex tubing to represent IJ, and 4/3 tubing for radial arteries. They looked right, if a little too regular.
+
+Used for simulation lab training with new residents who had done 0-2 central lines in their careers.
+
+Very good imaging characteristics, but didn't perform detailed analysis.
+
+Excellent needle visualization, tenting of vessel.
+
+Unfortunately, they rotted at 10 days despite being bagged, likely related to the wet flour content.
+
+Optimal solution probably is flattened nitrile glove skin on agar at 7.5% with irregular surface (anterior triagle of the neck) to train probe placement. I expect a FDM solution would be suitable.
+
+An echogenizer that doesn't rot is also of interest.
+
 ## Bibliography
 
 > Earle M, Portu GD, DeVos E. Agar ultrasound phantoms for low-cost training without refrigeration. Afr J Emerg Med. 2016;6(1):18-23. doi:10.1016/j.afjem.2015.09.003
